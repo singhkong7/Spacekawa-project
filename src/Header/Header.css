@@ -1,0 +1,21 @@
+.Header
+{
+    padding: 10px;
+    display:flex;
+    flex-direction: row;
+}
+.header_content
+{
+    margin-left: 800px;
+    margin-top: 24px;
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+.header_content > h3 {
+    margin: 8px;
+  }
+
+  h1
+  {
+      margin-left: 2px;
+  }

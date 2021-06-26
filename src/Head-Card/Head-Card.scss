@@ -1,0 +1,41 @@
+.head-card
+{
+    margin-left: 130px;
+    height: 200px;
+    width:80%;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+img
+{
+    margin-left: 20px;
+    height: 100px;
+    width:100px;
+    border-radius: 100%;
+}
+.side
+{
+    margin-left: 30px;;
+    display: flex;
+    flex-wrap:wrap-reverse;
+    flex-direction: column;
+    h1
+    {
+        color: red;
+        text-decoration: underline;
+        text-decoration-color: red;
+    }
+    span
+    {
+        color: black;
+    }
+    p
+    {
+        color: gray;
+    }
+
+}
